@@ -28,8 +28,9 @@ class Bio extends React.Component {
         />
         <p>
           Hello World.{' '}
+          <br />
           <a href="https://twitter.com/yoonkiwoong">
-            My Twitter
+            Twitter
           </a>
         </p>
       </div>
